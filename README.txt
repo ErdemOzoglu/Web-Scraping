@@ -1,7 +1,7 @@
 Erdem Özoğlu 
 
 Python Flask ile geliştirilmiş web sitesidir.
-Girilen iki farklı url girerek iki web sitesi arasındaki benzerlik oran hesabı,
+İki farklı url girerek iki web sitesi arasındaki benzerlik oran hesabı,
 sitelerin anahtar kelimelerini ve kelime frekanslarını kullanıcıya sunar.
 
 Projeyi derleyerek localde çalıştırabilirsiniz.
